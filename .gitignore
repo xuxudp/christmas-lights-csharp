@@ -1,0 +1,14 @@
+﻿# Visual Studio
+.vs/
+
+# .NET
+bin/
+obj/
+
+# Arquivos de usuário
+*.user
+*.suo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
